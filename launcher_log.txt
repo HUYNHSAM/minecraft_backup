@@ -1,0 +1,28 @@
+[0128/102645:INFO:LauncherAppBrowser.cpp(24)] Work dir is C:\Users\Error\AppData\Roaming\.minecraft
+
+[0128/102645:INFO:ClientHandler.cpp(182)] Creating launcher window.
+
+[0128/102652:INFO:LauncherAppRenderer.cpp(110)] Javascript bridge extended.
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Preferences / startup: Read preferences
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Using language en-us as it matches system UI language of en-us
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Preferences: Wrote preferences
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Configurations: Loading profiles
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Configurations: Loading settings
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Session: Read authDB
+
+[0128/102657:INFO:ClientHandler.cpp(859)] Updating server status
+
+[0128/102657:INFO:GameController.cpp(222)] Reinstancing game callbacks...
+
+[0128/102657:INFO:ClientHandler.cpp(859)] GameStarter: Previous instance(s) found
+
+[0128/102658:INFO:ClientHandler.cpp(859)] Preferences: Wrote preferences
+
+[0128/102720:INFO:ClientHandler.cpp(149)] Shutting down!
+

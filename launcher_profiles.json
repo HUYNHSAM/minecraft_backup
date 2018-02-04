@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "SamBigBang": {
+      "name": "SamBigBang",
+      "javaDir": "C:\\Program Files (x86)\\Minecraft\\runtime\\jre-x64\\1.8.0_25\\bin\\javaw.exe"
+    }
+  },
+  "selectedProfile": "SamBigBang",
+  "clientToken": "ef0b494c-4242-4ee3-a154-d93e1935919e",
+  "authenticationDatabase": {
+    "a17e79fa901332f78c0862afe8c7d25e": {
+      "displayName": "SamBigBang",
+      "userid": "SamBigBang",
+      "uuid": "a17e79fa-9013-32f7-8c08-62afe8c7d25e",
+      "username": "SamBigBang"
+    }
+  },
+  "selectedUser": "a17e79fa901332f78c0862afe8c7d25e",
+  "launcherVersion": {
+    "name": "Shiginima Launcher v3.100",
+    "format": 18
+  }
+}
